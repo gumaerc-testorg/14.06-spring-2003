@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 88f5ea3c-4951-8b2d-24ba-c5d969c15ddf
 resourcetype: Document
 title: Problem Set 3
 uid: 76f7948d-cc3d-7e0f-242c-57eeb38174c0
