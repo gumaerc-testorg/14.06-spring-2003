@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of assignment due dates and exams.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 88f5ea3c-4951-8b2d-24ba-c5d969c15ddf
 ---
@@ -22,7 +25,7 @@ EVENT
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 1 Due ([PDF]({{< baseurl >}}/resources/ps1))
+Problem Set 1 Due ({{% resource_link 8cb45ef5-0866-56d7-42de-054fcc0504e4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +34,7 @@ Problem Set 1 Due ([PDF]({{< baseurl >}}/resources/ps1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 2 Due ([PDF]({{< baseurl >}}/resources/1406ps2))
+Problem Set 2 Due ({{% resource_link 062ff515-2300-e47e-0bac-91c8c4acf3ee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +52,7 @@ First Paper Due
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 3 Due ([PDF]({{< baseurl >}}/resources/ps3))
+Problem Set 3 Due ({{% resource_link 76f7948d-cc3d-7e0f-242c-57eeb38174c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +61,7 @@ Problem Set 3 Due ([PDF]({{< baseurl >}}/resources/ps3))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 4 Due ([PDF]({{< baseurl >}}/resources/1406ps4))
+Problem Set 4 Due ({{% resource_link 52727ae9-d217-b9c7-d88d-e0f119a16e6d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +70,7 @@ Problem Set 4 Due ([PDF]({{< baseurl >}}/resources/1406ps4))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Midterm ([PDF]({{< baseurl >}}/resources/midterm))
+Midterm ({{% resource_link e0bd994b-bcb0-a47a-4cae-08fc6d249ad0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +79,7 @@ Midterm ([PDF]({{< baseurl >}}/resources/midterm))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 5 Due ([PDF]({{< baseurl >}}/resources/1406ps5))
+Problem Set 5 Due ({{% resource_link 81a91d7f-935a-8072-5fc2-b05a073181c7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +106,7 @@ Final Version of Second Paper Due
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 6 Due ([PDF]({{< baseurl >}}/resources/1406ps6))
+Problem Set 6 Due ({{% resource_link 6aec12a0-6741-14d5-0745-25dcd266b693 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +115,7 @@ Problem Set 6 Due ([PDF]({{< baseurl >}}/resources/1406ps6))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 7 Due ([PDF]({{< baseurl >}}/resources/1406ps7))
+Problem Set 7 Due ({{% resource_link e23044c9-d407-563e-df07-81e4aab30e24 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
