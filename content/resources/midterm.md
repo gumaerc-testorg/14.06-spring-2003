@@ -4,6 +4,7 @@ description: Midterm exam on macroeconomic theory.
 file: /courses/14-06-intermediate-macroeconomic-theory-spring-2003/e0bd994bbcb0a47a4cae08fc6d249ad0_midterm.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: Midterm Exam
 uid: e0bd994b-bcb0-a47a-4cae-08fc6d249ad0
 ---
 Midterm exam on macroeconomic theory.
-
