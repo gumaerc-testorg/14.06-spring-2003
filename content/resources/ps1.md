@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on macroeconomic theory.
 file: /courses/14-06-intermediate-macroeconomic-theory-spring-2003/8cb45ef5086656d742de054fcc0504e4_ps1.pdf
+file_size: 77185
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
