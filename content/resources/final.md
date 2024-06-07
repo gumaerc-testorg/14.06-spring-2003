@@ -2,6 +2,7 @@
 content_type: resource
 description: Final exam on macroeconomic theory.
 file: /courses/14-06-intermediate-macroeconomic-theory-spring-2003/205558dd90003e4a5e644493d6737101_final.pdf
+file_size: 123949
 file_type: application/pdf
 learning_resource_types:
 - Exams
