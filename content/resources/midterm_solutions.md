@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a midterm exam on macroeconomic theory.
-file: /courses/14-06-intermediate-macroeconomic-theory-spring-2003/5f695369b46fbd9f8b4043a881e046f9_midterm_solutions.pdf
+file: /ol-ocw-studio-app/courses/14-06-intermediate-macroeconomic-theory-spring-2003/5f695369b46fbd9f8b4043a881e046f9_midterm_solutions.pdf
 file_size: 207365
 file_type: application/pdf
 learning_resource_types:
